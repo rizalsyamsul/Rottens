@@ -1,0 +1,19 @@
+[
+  {
+
+    "username": "UserKesatu",
+    "email": "user1@mail.com",
+    "password": "user1",
+    "role": "admin",
+    "phoneNumber": "081122392",
+    "address": "JKT"
+  },
+  {
+    "username": "adminKesatu",
+    "email": "admin@mail.com",
+    "password": "admin",
+    "role": "admin",
+    "phoneNumber": "0812345678",
+    "address": "BDG"
+  }
+]
